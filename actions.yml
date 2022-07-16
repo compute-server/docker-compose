@@ -14,5 +14,5 @@ services:
       - PORT=4635
     command: npm start
 volumes:
-  - node_modules
+  node_modules:
   

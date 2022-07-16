@@ -7,4 +7,4 @@ RUN npm install --silent
 
 COPY . ./
 
-EXPOSE 7314
+EXPOSE 4635
